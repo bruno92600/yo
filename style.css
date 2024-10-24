@@ -7,6 +7,11 @@ body {
     font-family: verdana, sans-serif;
 }
 
+.titre {
+    color: white;
+    text-align: center;
+}
+
 .mySlides {
     display: none;
 }
